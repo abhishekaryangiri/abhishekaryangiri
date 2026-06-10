@@ -31,7 +31,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekaryangiri&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekaryangiri&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
