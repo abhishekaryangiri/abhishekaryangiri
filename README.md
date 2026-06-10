@@ -68,18 +68,22 @@
 <!-- <p align="center"> <a href="https://github.com/abhishekaryangiri/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekaryangiri&row=1&column=6&theme=onedark" alt="abhishekaryangiri" /></a> </p> -->
 ## 🏆 GitHub Trophies
 
+## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekaryangiri&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy-abhishek.vercel.app/?username=abhishekaryangiri&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekaryangiri&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekaryangiri&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhishekaryangiri&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekaryangiri&layout=compact&theme=tokyonight" />
-</p>
-
 
 
 
