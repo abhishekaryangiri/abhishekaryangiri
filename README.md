@@ -65,8 +65,12 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/abhishekaryangiri/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekaryangiri&row=1&column=6&theme=onedark" alt="abhishekaryangiri" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/abhishekaryangiri/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekaryangiri&row=1&column=6&theme=onedark" alt="abhishekaryangiri" /></a> </p> -->
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekaryangiri&theme=onedark&row=1&column=6" />
+</p>
 ---
 
 
