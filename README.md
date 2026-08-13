@@ -11,6 +11,14 @@
 ---
 ###  <p  align="center"> Thank You for taking the time to view my GitHub Profile 😄 </p>
 ---
+<p align="center">
+  <img
+    src="https://stats.pphat.top/languages?username=abhishekaryangiri"
+    alt="Languages"
+    style="width:100%; max-width:100%; height:auto;"
+  />
+</p>
+---
 
 <!--  profile visitors and followers -->
 <!-- ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--xG1gcsyJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg)
