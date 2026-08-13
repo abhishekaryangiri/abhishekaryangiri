@@ -15,9 +15,9 @@
   <img
     src="https://stats.pphat.top/languages?username=abhishekaryangiri"
     alt="Languages"
-    style="width:100%; max-width:100%; height:auto;"
-  />
+    style="width:100%; max-width:100%; height:auto;"/>
 </p>
+
 ---
 
 <!--  profile visitors and followers -->
